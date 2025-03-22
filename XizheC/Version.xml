@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Node>
+  <UpdateInfo>
+    <UpdateTime Date="2013-10-16"></UpdateTime>
+    <Version Num="1.0.3"></Version>
+  </UpdateInfo>
+<ProgramInfo>
+ <ProgramName Name="JXCUpdateProgram"></ProgramName>
+</ProgramInfo>
+</Node>

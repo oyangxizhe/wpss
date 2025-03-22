@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Node>
+  <AutoUpdater>
+  <UrlAddress Url="http://127.0.0.1/Updater/"></UrlAddress>//升级文件所在服务器端的网址
+    <UpdateInfo>
+    <UpdateTime Date="2013-10-13"></UpdateTime>//升级文件的更新日期
+    <Version Num="1.0.0.3"></Version>//升级文件的版本号
+  </UpdateInfo>
+  <UpdateFileList>
+    <UpdateFile FileName="1.rar"></UpdateFile>//升级文件
+    <UpdateFile FileName="2.txt"></UpdateFile>
+  </UpdateFileList>
+  <RestartApp>
+    <Restart Allow="YES"></Restart>
+    <AppName Name="Update.exe"></AppName> //启动的应用程序名 
+  </RestartApp>
+  </AutoUpdater> 
+</Node>
